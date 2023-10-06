@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 --!>
 - 🌱 I’m currently learning AI and Data Science 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FaizaAli-DS](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=FaizaAli-DS&theme=onedark
